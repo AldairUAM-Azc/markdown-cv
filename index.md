@@ -17,7 +17,7 @@ Estudiante de Ingeniería en Computación en UAM Azcapotzalco.
 Hoy en día me encuentro estudiando el tercer año de ingeniería en computación en la UAM Azcapotzalco.
 Promedio actual de 9.38.
 
-### Intereses académico / profesionales
+## Intereses académico / profesionales
 
 Estoy interesado en la Ingeniería de Datos, es decir, en la construcción de sistemas que habiliten la recolección y administración de cantidades enormes de datos, para después ser analizados y utilizados en el entrenamiento de modelos de aprendizaje de máquina.
 
