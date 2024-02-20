@@ -74,7 +74,7 @@ code {
 	font-size: 80%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
-	color: #aaa;
+	color: #a3a3a3;
 }
 
 p code {
@@ -92,11 +92,11 @@ ul {
 }
 
 /*uncomment to get dashes in the list*/
-/*li:before {
+li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
-}*/
+}
 
 li {
 	/*second line indent*/
@@ -164,9 +164,12 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 33%;
-	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 100%;
+}
+
+#webaddress div {
+	color: #a3a3a3
 }
 
 #webaddress a {
