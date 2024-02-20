@@ -6,6 +6,7 @@ title: 👨‍💻 Aldair Avalos
 Estudiante de Ingeniería en Computación en UAM Azcapotzalco.
 
 <div id="webaddress">
+  <div>Contacto</div>
   <div>📲 +52 55 65051565</div>
   <div>📧 al2222005685@azc.uam.mx</div>
 </div>
@@ -13,7 +14,8 @@ Estudiante de Ingeniería en Computación en UAM Azcapotzalco.
 
 ## Actualmente
 
-Hoy en dia me encuentro estudiando el tercer año de ingeniería en computación en la UAM Azcapotzalco.
+Hoy en día me encuentro estudiando el tercer año de ingeniería en computación en la UAM Azcapotzalco.
+Promedio actual de 9.38.
 
 ### Intereses académico / profesionales
 
