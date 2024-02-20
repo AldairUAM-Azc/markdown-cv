@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: 👨‍💻 Aldair Avalos
 ---
 # Aldair Oswaldo Avalos Albino
 Estudiante de Ingeniería en Computación en UAM Azcapotzalco.
