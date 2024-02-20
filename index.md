@@ -16,7 +16,7 @@ Estudiante de Ingeniería en Computación en UAM Azcapotzalco.
 
 Hoy en día me encuentro estudiando el tercer año de ingeniería en computación en la UAM Azcapotzalco.
 <br>
-Promedio actual de 9.38.
+Promedio actual de **9.38**.
 
 ## Intereses académico-profesionales
 
