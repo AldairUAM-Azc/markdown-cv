@@ -2,11 +2,11 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Aldair Oswaldo Avalos Albino
+Estudiante de Ingenieria en Computacion en UAM Azcapotzalco.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="al2222005685@azc.uam.mx">al2222005685@azc.uam.mx</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
