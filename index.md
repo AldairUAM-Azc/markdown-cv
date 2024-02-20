@@ -3,89 +3,32 @@ layout: cv
 title: Isaac Newtons's CV
 ---
 # Aldair Oswaldo Avalos Albino
-Estudiante de Ingenieria en Computacion en UAM Azcapotzalco.
+Estudiante de Ingeniería en Computación en UAM Azcapotzalco.
 
 <div id="webaddress">
-<a href="al2222005685@azc.uam.mx">al2222005685@azc.uam.mx</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <div>📲 +52 55 65051565</div>
+  <div>📧 al2222005685@azc.uam.mx</div>
 </div>
 
 
-## Currently
+## Actualmente
 
-Standing on the shoulders of giants
+Hoy en dia me encuentro estudiando el tercer año de ingeniería en computación en la UAM Azcapotzalco.
 
-### Specialized in
+### Intereses académico / profesionales
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Estoy interesado en la Ingeniería de Datos, es decir, en la construcción de sistemas que habiliten la recolección y administración de cantidades enormes de datos, para después ser analizados y utilizados en el entrenamiento de modelos de aprendizaje de máquina.
 
+## Educación
 
-### Research interests
+`2022-2026`<br>
+__Universidad Autónoma Metropolitana Unidad Azcapotzalco. Ciudad de México__
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`2018-2020`<br>
+__Escuela Superior de Ingeniería Química e Industrias Extractivas. IPN. Ciudad de México__
+__Ingenieria Química. Cuatro semestres cursados.__
 
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+`2015-2018`<br>
+__Centro de Estudios Científicos y Tecnológicos 9 Juan de Dios Bátiz. Ciudad de México__
+<br>
+__Pasante de la Carrera Técnica de Sistemas Digitales__
