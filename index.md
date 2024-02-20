@@ -20,6 +20,7 @@ Promedio actual de 9.38.
 ## Intereses académico-profesionales
 
 Estoy interesado en la Ingeniería de Datos, es decir, en la construcción de sistemas que habiliten la recolección y administración de cantidades enormes de datos, para después ser analizados y utilizados en el entrenamiento de modelos de aprendizaje de máquina.
+<br>
 Además, me interesa ser un punto de apoyo para que la comunidad estudiantil mejore su aprovechamiento académico a través de la orientación académica basada en mi propia experiencia dentro de la universidad.
 
 ## Educación
