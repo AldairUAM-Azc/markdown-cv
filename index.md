@@ -31,6 +31,6 @@ __Escuela Superior de Ingeniería Química e Industrias Extractivas. IPN. Ciudad
 __Ingenieria Química. Cuatro semestres cursados.__
 
 `2015-2018`<br>
-__Centro de Estudios Científicos y Tecnológicos 9 Juan de Dios Bátiz. Ciudad de México__
+__Centro de Estudios Científicos y Tecnológicos 9 Juan de Dios Bátiz. IPN. Ciudad de México__
 <br>
 __Pasante de la Carrera Técnica de Sistemas Digitales__
